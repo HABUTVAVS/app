@@ -1,0 +1,4 @@
+http://www.aerialview.tv/app/KodiWizard/versionfiles/ICE/update.zip
+location 2
+location 3
+location 4
