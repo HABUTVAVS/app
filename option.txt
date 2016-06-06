@@ -1,4 +1,4 @@
-Test 1
+HABU TV Box Media Player
 Test 2 (empty)
 Test 3 (empty)
 Test 4 (empty)
